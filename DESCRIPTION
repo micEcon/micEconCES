@@ -20,4 +20,5 @@ Description: Tools for econometric analysis and economic modelling
    can be combined with a grid-search for the rho-parameter(s).
 License: GPL (>= 2)
 Encoding: UTF-8
+BugReports: https://github.com/micEcon/micEconCES
 URL: http://www.micEcon.org
