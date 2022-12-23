@@ -28,8 +28,17 @@ Authors: D. Ardia, K. Mullen, B. Peterson and J. Ulrich
 Loading required package: car
 Loading required package: carData
 
-If you have questions, suggestions, or comments regarding one of the 'micEcon' packages, please use a forum or 'tracker' at micEcon's R-Forge site:
-https://r-forge.r-project.org/projects/micecon/
+To cite package 'micEconCES' in publications use:
+  Henningsen, Arne, Géraldine Henningsen, and Gergő Literáti (2021):
+  Econometric Estimation of the 'Constant Elasticity of Substitution'
+  Function in R: the micEconCES Package. In Hashimzade, N. and M.
+  Thornton (editors), Handbook of Research Methods and Applications in
+  Empirical Microeconomics. Edward Elgar, p. 596–640.
+  https://doi.org/10.4337/9781788976480.00030 (open access:
+  https://bit.ly/3I5U310).
+
+If you have questions, suggestions, or comments regarding the 'micEconCES' package, please use the 'issue' tracker at the GitHub page of the package:
+https://github.com/micEcon/micEconCES
 > options( digits = 3 )
 > 
 > # seed for random number generation
@@ -10666,4 +10675,4 @@ Elasticity of Substitution: -1.16
 > 
 > proc.time()
    user  system elapsed 
- 10.246   0.212  10.457 
+  9.636   0.217   9.848 
